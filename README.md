@@ -2,7 +2,7 @@
 
 **An Excel-powered analytics project for optimizing content investment strategy at StreamWave Entertainment**
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Ola-ykay/StreamWave-Entertainment-Analysis/blob/main/Streamwave-Dashboard.png)
 
 ---
 
@@ -161,7 +161,8 @@ A **100% completion rate** signals strong content quality and viewer satisfactio
 The interactive Excel dashboard provides a comprehensive single-view summary of all key metrics and genre performance indicators.
 
 ![Full Dashboard](https://github.com/Ola-ykay/StreamWave-Entertainment-Analysis/blob/main/Streamwave-Dashboard.png)
-![Full Dashboard](https://github.com/Ola-ykay/StreamWave-Entertainment-Analysis/blob/main/Streamwave-Dashboard.png)
+![Full Dashboard](https://github.com/Ola-ykay/StreamWave-Entertainment-Analysis/blob/main/Screenshot%202026-03-19%20022849.png)
+![Full Dashboard](https://github.com/Ola-ykay/StreamWave-Entertainment-Analysis/blob/main/Screenshot%202026-03-19%20022829.png)
 
 > *Dashboard built in Microsoft Excel featuring KPI cards, donut charts, bar charts, line charts, and star-rating engagement visuals with interactive genre slicers.*
 
